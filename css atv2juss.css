@@ -1,0 +1,27 @@
+body{margin: 0px auto; padding: 5px; width: 800px; background-color:#F6F2E8;}
+        .caixa{display: block; background-color: white; width: 800px; height:658px; position: relative; bottom: 5px;}
+        .split { border-radius: 10px; background-color: burlywood; display: inline-flex;
+            align-items: center; flex-direction: column; min-width: 380px; margin: 5px; height: 250px;}
+        .split1 { border-radius: 10px; background-color: burlywood; display: inline-flex;
+            align-items: center; flex-direction: column; width: 364px; margin: 5px; height: 250px;}
+        .split2 {border-radius: 10px;background-color: burlywood; display: inline-flex;
+            align-items: center; flex-direction: column; min-width: 410px; margin: 5px;height: 210px;}
+        .split3 {border-radius: 10px; background-color: burlywood; display: inline-flex;
+            align-items: center; flex-direction: column; width: 330px; margin: 5px; height: 200px;}
+        .split-2 {background-color: #F6F2E8;}
+        .imgeri{position: relative; right: 100px; bottom: 10px;}
+        .texto{position:relative; text-align:left; left: 95px; font-size: 15px; bottom: 160px;}
+        .quali{position:relative; bottom: 150px;}
+        .bemVindo {color: hsl(54, 73%, 38%); font-size: 15px; font-family: Helvetica; height: 2px;
+            font-weight: bolder; text-align: left; text-transform: uppercase; text-shadow: black 1px 2px 3px;}
+        .tituloPrincipal {color: rgb(104, 98, 10); font-family: Helvetica; font-weight: bolder; height: 10px;
+        text-align: left; font-size: 35px; text-transform: uppercase; text-align: left; text-shadow: black 4px -2px 3px;
+        position: relative; right: 50px;}
+        .tituloWeb {color:hsl(54, 73%, 38%); font-family: Helvetica; font-weight: bolder; font-size: 30px; 
+        text-transform: uppercase; text-align: left; text-shadow: black 4px -2px 3px; height:10px; 
+        position: relative; left: 120px; bottom:25px}
+        .textoFacilita {color:hsl(54, 73%, 38%); font-size: 15px; font-family: Helvetica; font-weight: bolder;}
+        .splet{display: inline-flexbox; row-gap: 100rem; }
+        .texto1{color: #94632f; position: relative; right: 2.5rem; top: 0.5rem; font-size: large; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;} 
+        .texto4{font-size: small; font-family: Georgia, 'Times New Roman', Times, serif;}
+        .pontos{font-family: Georgia, 'Times New Roman', Times, serif;}
